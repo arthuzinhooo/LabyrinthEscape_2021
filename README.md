@@ -1,4 +1,4 @@
 "# LabyrinthEscape_2021" 
-...
-PT-BR: Este é meu primeiro jogo.
-EN-US: This is my first game.
+
+O jogo está disponível apenas no idioma PT-BR;
+The game is only available in the language PT-BR;
